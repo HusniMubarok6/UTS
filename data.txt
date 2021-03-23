@@ -1,1 +1,0 @@
-{"Nama_Wilayah":"DKI Jakarta","Jumlah_Positif":"500","Jumlah_Dirawat":"300","Jumlah_Sembuh":"100","Jumlah_Meninggal":"50","Nama_Operator":"Husni Mubarok","NIM_Mahasiswa":"171011450336"}
